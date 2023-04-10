@@ -10,6 +10,4 @@ def soma_parcial(lista, n):
         i = i + 1
     return soma
 
-
-
 # print(soma_parcial(lista, n))
