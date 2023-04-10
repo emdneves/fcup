@@ -1,0 +1,4 @@
+# 3.11 O menor divisor próprio de um inteiro n é o menor inteiro d tal que d > 1 e d divide n (ou seja: o resto da divisão de n por d é zero).
+# (a) Escreva a definição duma função mindiv(n) que calcula o menor divisor próprio.
+# (b) Um inteiro n é primo se o seu menor divisor próprio for n. Escreva a definição duma função primo(n) cujo resultado é True ou False conforme n é ou não primo.
+# (c) Note que se d é o menor divisor próprio de n e d > (raizquad (n)) então d = n (porquê?). Modifique a definição da função da alínea (a) para usar esta propriedade para tornar mais rápida a pesquisa do menor divisor próprio.
