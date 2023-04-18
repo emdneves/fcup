@@ -1,2 +1,0 @@
-# 3.9 Um número n diz-se triangular se pode ser escrito como uma soma 1 + 2 + _ + k para algum natural k. Os primeiros cinco números triangulares são 1; 3; 6; 10 e 15. 
-# Escreva uma função triangular(n) cujo resultado é True ou False conforme n é triangular ou não.

@@ -1,3 +1,0 @@
-# 3.10 Podemos contar algarismos decimais na respresentação de um número fazendo divisões inteiras por dez. 
-#Por exemplo: 9733 tem 4 algarismos porque podemos fazer quatro divisões sucessivas por 10 obtendo os quocientes 973, 97, 9 e 0 (paramos quando chegamos a zero). 
-#Escreva uma função algarismos(n) cujo resultado é o número de algarismos decimais de n. Sugestão: use um ciclo while para repetir as divisões sucessivas e contar o número de iterações.
