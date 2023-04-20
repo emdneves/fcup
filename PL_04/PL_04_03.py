@@ -13,7 +13,6 @@ def filtra_letras(txt):
             filtrado += char
     return filtrado
 
-# Exemplo de uso da função
 txt = "Ola!, -- disse ele..."
 filtrado = filtra_letras(txt)
-print(filtrado) # Oladisseele
+print(filtrado) 

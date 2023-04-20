@@ -15,11 +15,8 @@ def apenas_letras(txt):
         if txt[i] >= 'A' and txt[i] <= 'Z':
             i = i +1
             if i == len(txt):
-                return True
-        
-            
+                return True   
     
-
 print(len(txt))
 d = apenas_letras(txt)
 print(d)

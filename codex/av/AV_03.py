@@ -6,8 +6,7 @@ def soma_parcial(lista, n):
     i = 0
     soma = 0
     while (i <= n):
-        soma = soma + lista[i]
+        soma += lista[i]
         i = i + 1
     return soma
-
 # print(soma_parcial(lista, n))
