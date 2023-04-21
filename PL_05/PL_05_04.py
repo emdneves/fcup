@@ -1,0 +1,1 @@
+# Escreva uma função intervalo(xs,a,b) cujo resultado é a contagem dos valores da lista xs que estão entre a e b inclusivé; pode assumir que a ≤b.

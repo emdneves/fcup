@@ -1,0 +1,1 @@
+# Escreva uma função media_geom(xs) que, dada uma lista de n valores numéricos xs, retorna a média geométrica dos seus valores, isto é,

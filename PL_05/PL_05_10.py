@@ -1,3 +1,16 @@
+# 5.10 O triângulo de Pascal é constituido pelos valores (n k ) das combinações de n em k em que n é a linha e k é a coluna. As primeiras cinco linhas do triângulo são:
+# 1 (n = 0)
+# 1 1 (n = 1)
+# 1 2 1 (n = 2)
+# 1 3 3 1 (n = 3)
+# 1 4 6 4 1 (n = 4)
+
+# Escreva uma função pascal(n) cujo resultado é uma lista com os coeficientes
+# da n-ésima linha do triângulo de Pascal.
+# Por exemplo:
+# >>> pascaln(4)
+# [1, 4, 6, 4, 1]
+# Nota: Os valores devem estar no formato inteiro.
 
 def pascal_triangle(n):
     # Cria uma lista vazia para armazenar as linhas do triângulo de Pascal
