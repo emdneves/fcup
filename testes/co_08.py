@@ -1,0 +1,2 @@
+def raiz(q, y):
+    

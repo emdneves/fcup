@@ -11,3 +11,6 @@ def palindromo(txt):
         end -= 1
 
     return True
+
+
+    
